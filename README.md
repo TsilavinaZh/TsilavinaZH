@@ -2,8 +2,6 @@
 
 I'm **Tsilavina**, a passionate fullstack developer specializing in **Go** and **JavaScript**.
 
-![Developer GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
-
 ## 🚀 About Me
 - 🔭 I’m currently working on various exciting projects  
   ![Working GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
