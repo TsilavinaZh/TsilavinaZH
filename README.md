@@ -5,13 +5,13 @@ I'm **Tsilavina**, a passionate fullstack developer specializing in **Go** and *
 ![Developer GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on various exciting projects
+- 🔭 I’m currently working on various exciting projects  
   ![Working GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-- 🌱 I’m always learning and exploring new technologies
+- 🌱 I’m always learning and exploring new technologies  
   ![Learning GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects  
   ![Collaboration GIF](https://media.giphy.com/media/12fWXvilfAsXFu/giphy.gif)
-- 💬 Ask me about anything related to Go and JavaScript
+- 💬 Ask me about anything related to Go and JavaScript  
   ![Ask Me GIF](https://media.giphy.com/media/l4FGwHEUCGILzK5D4/giphy.gif)
 
 ## 🛠️ Languages and Tools
