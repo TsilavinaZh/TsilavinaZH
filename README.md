@@ -33,12 +33,12 @@ I'm **Tsilavina**, a passionate fullstack developer specializing in **Go** and *
 ### Project 1
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsilavinaZh&repo=project1&theme=radical)](https://github.com/TsilavinaZh/project1)
 - Description: This is a short description of Project 1.
-- ![Project 1 Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+  ![Project 1 Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ### Project 2
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsilavinaZh&repo=project2&theme=radical)](https://github.com/TsilavinaZh/project2)
 - Description: This is a short description of Project 2.
-- ![Project 2 Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+  ![Project 2 Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ## 📫 How to reach me
 - ![Website](https://img.shields.io/badge/Website-217346?style=for-the-badge&logo=internet&logoColor=white) [tsilakwely.000webhostapp.com](https://tsilakwely.000webhostapp.com)
