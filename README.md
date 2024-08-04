@@ -1,45 +1,52 @@
-# Hi there 👋
+# Bonjour, je suis Tsilavina 👋
 
-I'm **Tsilavina**, a passionate fullstack developer specializing in **Go** and **JavaScript**.
+Je suis un développeur JavaScript passionné, toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
 
-## 🚀 About Me
-- 🔭 I’m currently working on various exciting projects  
-  ![Working GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-- 🌱 I’m always learning and exploring new technologies  
-  ![Learning GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-- 👯 I’m looking to collaborate on open source projects  
-  ![Collaboration GIF](https://media.giphy.com/media/12fWXvilfAsXFu/giphy.gif)
-- 💬 Ask me about anything related to Go and JavaScript  
-  ![Ask Me GIF](https://media.giphy.com/media/l4FGwHEUCGILzK5D4/giphy.gif)
+## Technologies et outils que j'utilise
 
-## 🛠️ Languages and Tools
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-## 🏆 Achievements
-![YOLO Badge](https://img.shields.io/badge/YOLO-Badge-F3F4F7?style=for-the-badge)
-![Ice Breaker Badge](https://img.shields.io/badge/Ice%20Breaker-Badge-6A1B9A?style=for-the-badge)
-![Star Badge](https://img.shields.io/badge/Star-Badge-FFD700?style=for-the-badge)
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-## 📈 GitHub Stats
-![TsilavinaZh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsilavinaZh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsilavinaZh&layout=compact&theme=radical)
+### CSS Frameworks
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
 
-## 🌟 Projects
-### Project 1
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsilavinaZh&repo=project1&theme=radical)](https://github.com/TsilavinaZh/project1)
-- Description: This is a short description of Project 1.
-  ![Project 1 Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+### Bases de données
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Project 2
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsilavinaZh&repo=project2&theme=radical)](https://github.com/TsilavinaZh/project2)
-- Description: This is a short description of Project 2.
-  ![Project 2 Gif](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+### Systèmes d'exploitation
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-## 📫 How to reach me
-- ![Website](https://img.shields.io/badge/Website-217346?style=for-the-badge&logo=internet&logoColor=white) [tsilakwely.000webhostapp.com](https://tsilakwely.000webhostapp.com)
-- ![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white) [profile](https://www.facebook.com/profile.php?id=100089202754595)
+### Outils
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## En cours d'apprentissage
+
+Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer mes compétences.
+
+## Contact
+
+N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
+
+[Email](mailto: tsiory.aina69@gmail.com)
+```
