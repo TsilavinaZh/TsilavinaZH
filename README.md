@@ -49,4 +49,3 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
 
 [Email](mailto: tsiory.aina69@gmail.com)
-```
