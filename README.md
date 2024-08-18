@@ -11,6 +11,7 @@ Je suis un développeur JavaScript passionné, toujours à la recherche de nouve
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -39,6 +40,7 @@ Je suis un développeur JavaScript passionné, toujours à la recherche de nouve
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![EdrawMax](https://img.shields.io/badge/-EdrawMax-00A98F?style=flat-square&logo=edrawmax&logoColor=white)
 
 ## En cours d'apprentissage
 
@@ -48,4 +50,4 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
 
-[Email](mailto: tsiory.aina69@gmail.com)
+[Email](mailto:tsiory.aina69@gmail.com)
