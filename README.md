@@ -1,4 +1,4 @@
-# Bonjour, je suis Tsilavina 👋
+# Bonjour, je suis Tsilavina 
 
 ![Developer Fullstack JavaScript](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
