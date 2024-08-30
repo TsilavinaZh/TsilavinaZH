@@ -43,6 +43,8 @@ Je suis un développeur JavaScript passionné, toujours à la recherche de nouve
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![EdrawMax](https://img.shields.io/badge/-EdrawMax-00A98F?style=flat-square&logo=edrawmax&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ## En cours d'apprentissage
 
@@ -53,4 +55,3 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
 
 [Email](mailto:tsiory.aina69@gmail.com)
-[Tel](0383922149)
