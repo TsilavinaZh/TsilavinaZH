@@ -1,44 +1,72 @@
+Voici une version avec toutes les bibliothèques représentées par des icônes :
+
+---
+
 # Bonjour, je suis TsilavinaZh
 
 ![Developer Fullstack JavaScript](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Je suis un développeur JavaScript passionné, toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
 
-## Technologies et outils que j'utilise
+## Langages et libraries que j'utilise
 
-### Frontend
+### Langages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Cordova](https://img.shields.io/badge/-Cordova-35434E?style=flat-square&logo=apache-cordova&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+### Libraries JavaScript
+![Lodash](https://img.shields.io/badge/-Lodash-3498DB?style=flat-square&logo=lodash&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat-square&logo=axios&logoColor=white)
+![Moment.js](https://img.shields.io/badge/-Moment.js-8C8C8C?style=flat-square&logo=moment&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-### CSS Frameworks
+### Libraries Java
+![Hibernate](https://img.shields.io/badge/-Hibernate-4A148C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+### Libraries Kotlin
+![Ktor](https://img.shields.io/badge/-Ktor-000000?style=flat-square&logo=ktor&logoColor=white)
+![Exposed](https://img.shields.io/badge/-Exposed-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Koin](https://img.shields.io/badge/-Koin-4A148C?style=flat-square&logo=kotlin&logoColor=white)
+
+### Libraries PHP
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Guzzle](https://img.shields.io/badge/-Guzzle-9A8F5C?style=flat-square&logo=guzzle&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/-PHPMailer-E1E1E1?style=flat-square&logo=phpmailer&logoColor=black)
+
+### Libraries Ruby
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rails&logoColor=white)
+![RSpec](https://img.shields.io/badge/-RSpec-91D3C7?style=flat-square&logo=rspec&logoColor=black)
+![Puma](https://img.shields.io/badge/-Puma-2D2D2D?style=flat-square&logo=puma&logoColor=white)
+
+### Libraries Swift
+![Alamofire](https://img.shields.io/badge/-Alamofire-FF6F61?style=flat-square&logo=alamofire&logoColor=white)
+![SwiftyJSON](https://img.shields.io/badge/-SwiftyJSON-FFCC00?style=flat-square&logo=swift&logoColor=black)
+![Vapor](https://img.shields.io/badge/-Vapor-8C8C8C?style=flat-square&logo=vapor&logoColor=white)
+
+## CSS Frameworks
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
 
-### Bases de données
+## Bases de données
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Systèmes d'exploitation
+## Systèmes d'exploitation
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-### Outils
+## Outils
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -57,3 +85,7 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
 
 [Email](mailto:tsiory.aina69@gmail.com)
+
+---
+
+Cette version inclut des icônes pour les libraries de chaque langage, tout en conservant les sections sur les outils, les frameworks CSS et les systèmes d'exploitation.
