@@ -1,1 +1,30 @@
 
+name: Update README 5 Times a Day
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # Mise à jour à minuit UTC
+    - cron: '0 4 * * *'    # Mise à jour à 4h00 UTC
+    - cron: '0 8 * * *'    # Mise à jour à 8h00 UTC
+    - cron: '0 12 * * *'   # Mise à jour à midi UTC
+    - cron: '0 16 * * *'   # Mise à jour à 16h00 UTC
+  workflow_dispatch:       # Permet de déclencher manuellement si nécessaire
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run update-readme script
+      run: node update-readme.js
