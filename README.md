@@ -1,6 +1,3 @@
-Voici une version avec toutes les bibliothèques représentées par des icônes :
-
----
 
 # Bonjour, je suis TsilavinaZh
 
