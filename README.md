@@ -1,4 +1,3 @@
-
 # Bonjour, je suis TsilavinaZh
 
 ![Developer Fullstack JavaScript](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -82,7 +81,3 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
 
 [Email](mailto:tsiory.aina69@gmail.com)
-
----
-
-Cette version inclut des icônes pour les libraries de chaque langage, tout en conservant les sections sur les outils, les frameworks CSS et les systèmes d'exploitation.
