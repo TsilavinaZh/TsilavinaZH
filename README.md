@@ -20,7 +20,7 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 [BotLex](https://github.com/TsilavinaZh/BotLex)  
 
 
-### 📋 MGTask – Gestionnaire de Projets Collaboratif <br>
+###  MGTask – Gestionnaire de Projets Collaboratif <br>
 > **Stack :** React.js · Node.js · Express · MySQL · Socket.io  <br>
 [MGTask](http://taskmanager.onifra-antsirabe.mg/)
 
