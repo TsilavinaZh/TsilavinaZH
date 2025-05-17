@@ -1,8 +1,42 @@
 # Bonjour, je suis TsilavinaZh
 
-![Developer Fullstack JavaScript](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer Fullstack JavaScript]
 
 Je suis un développeur fullstack passionné, toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
+
+## 🚀 Projets
+
+### EyeRest – Chatbot Full offline
+> **Stack :** Python · OpenCV · Numpy . xml
+[LINK](https://github.com/TsilavinaZh/EyeRest) 
+
+
+### EduConnect – Application Mobil
+> **Stack :** Typescript, Ant design, express  
+> **Fonctionnalités :** Application pour suivre les programme scolaire de l'universite
+> [LINK](https://github.com/TsilavinaZh/EduConnect)
+
+### BotLex – Chatbot Full offline
+> **Stack :** Python · Numpy · Json
+[LINK](https://github.com/TsilavinaZh/BotLex)  
+
+
+### 📋 MGTask – Gestionnaire de Projets Collaboratif
+> **Stack :** React.js · Node.js · Express · MySQL · Socket.io  
+> **Fonctionnalités :** gestion de projets & tâches, chat en temps réel, statistiques, notifications, planning  
+![LINK](http://taskmanager.onifra-antsirabe.mg/)
+
+
+### CodePy – IDE python
+> **Stack :** Python · Flet · Json
+[LINK](https://github.com/TsilavinaZh/CodePy)  
+
+
+### Esivana – Library JS
+> **Stack :** Javascript  
+> **Fonctionnalités :** une bibliothèque Node.js légère conçue pour filtrer et censurer les gros mots en malgache
+> [LINK](https://github.com/TsilavinaZh/Esivana)
+
 
 ## Langages et libraries que j'utilise
 
