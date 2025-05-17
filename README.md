@@ -1,4 +1,4 @@
-# Bonjour, je suis Tendry
+# Bonjour, je suis Tendry Tsilavina
 
 ## Developer polyglotte 
 
