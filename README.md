@@ -32,8 +32,8 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 
 ### Esivana – Library JS
 > **Stack :** Javascript  
-> **Fonctionnalités :** une bibliothèque Node.js légère conçue pour filtrer et censurer les gros mots en malgache
-> [LINK](https://github.com/TsilavinaZh/Esivana)
+> **Fonctionnalités :** une bibliothèque Node.js légère conçue pour filtrer et censurer les gros mots en malgache<br>
+> [Esivana](https://github.com/TsilavinaZh/Esivana)
 
 
 ## Langages et libraries que j'utilise
