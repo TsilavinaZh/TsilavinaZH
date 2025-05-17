@@ -1,35 +1,33 @@
 # Bonjour, je suis TsilavinaZh
 
-![Developer Fullstack JavaScript]
+## Developer polyglotte 
 
 Je suis un développeur fullstack passionné, toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
 
 ## 🚀 Projets
 
 ### EyeRest – Chatbot Full offline
-> **Stack :** Python · OpenCV · Numpy . xml
-[LINK](https://github.com/TsilavinaZh/EyeRest) 
+> **Stack :** Python · OpenCV · Numpy . xml <br>
+[EyeRest](https://github.com/TsilavinaZh/EyeRest) 
 
 
 ### EduConnect – Application Mobil
-> **Stack :** Typescript, Ant design, express  
-> **Fonctionnalités :** Application pour suivre les programme scolaire de l'universite
-> [LINK](https://github.com/TsilavinaZh/EduConnect)
+> **Stack :** Typescript, Ant design, express  <br>
+> [EduConnect](https://github.com/TsilavinaZh/EduConnect)
 
 ### BotLex – Chatbot Full offline
-> **Stack :** Python · Numpy · Json
-[LINK](https://github.com/TsilavinaZh/BotLex)  
+> **Stack :** Python · Numpy · Json <br>
+[BotLex](https://github.com/TsilavinaZh/BotLex)  
 
 
-### 📋 MGTask – Gestionnaire de Projets Collaboratif
-> **Stack :** React.js · Node.js · Express · MySQL · Socket.io  
-> **Fonctionnalités :** gestion de projets & tâches, chat en temps réel, statistiques, notifications, planning  
-![LINK](http://taskmanager.onifra-antsirabe.mg/)
+### 📋 MGTask – Gestionnaire de Projets Collaboratif <br>
+> **Stack :** React.js · Node.js · Express · MySQL · Socket.io  <br>
+![MGTask](http://taskmanager.onifra-antsirabe.mg/)
 
 
 ### CodePy – IDE python
-> **Stack :** Python · Flet · Json
-[LINK](https://github.com/TsilavinaZh/CodePy)  
+> **Stack :** Python · Flet · Json <br>
+[COdePy](https://github.com/TsilavinaZh/CodePy)  
 
 
 ### Esivana – Library JS
