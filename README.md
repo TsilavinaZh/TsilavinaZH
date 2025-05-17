@@ -2,7 +2,7 @@
 
 ## Developer polyglotte 
 
-Je suis un développeur fullstack passionné, toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
+Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
 
 ## 🚀 Projets
 
@@ -22,12 +22,12 @@ Je suis un développeur fullstack passionné, toujours à la recherche de nouvea
 
 ### 📋 MGTask – Gestionnaire de Projets Collaboratif <br>
 > **Stack :** React.js · Node.js · Express · MySQL · Socket.io  <br>
-![MGTask](http://taskmanager.onifra-antsirabe.mg/)
+[MGTask](http://taskmanager.onifra-antsirabe.mg/)
 
 
 ### CodePy – IDE python
 > **Stack :** Python · Flet · Json <br>
-[COdePy](https://github.com/TsilavinaZh/CodePy)  
+[CodePy](https://github.com/TsilavinaZh/CodePy)  
 
 
 ### Esivana – Library JS
@@ -50,15 +50,19 @@ Je suis un développeur fullstack passionné, toujours à la recherche de nouvea
 #### JavaScript & TypeScript
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Lodash](https://img.shields.io/badge/-Lodash-3498DB?style=flat-square&logo=lodash&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat-square&logo=axios&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 #### Python
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-2C8EBB?style=flat-square)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square)
+
 
 #### Go
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -85,6 +89,9 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## Contact
-N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour échanger sur le développement web !
 
-[Email](mailto:tsiory.aina69@gmail.com) | [Téléphone](+261 38 39 221 49)
+N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement échanger autour du développement web.
+
+📧 [tsiory.aina69@gmail.com](mailto:tsiory.aina69@gmail.com)  
+📞 +261 38 39 221 49
+
