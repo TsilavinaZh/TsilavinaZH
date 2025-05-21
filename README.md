@@ -6,7 +6,7 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 
 ## 🚀 Projets
 
-### EyeRest – Chatbot Full offline
+### EyeRest – OpenCV 
 > **Stack :** Python · OpenCV · Numpy . xml <br>
 [EyeRest](https://github.com/TsilavinaZh/EyeRest) 
 
