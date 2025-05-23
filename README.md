@@ -7,7 +7,7 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 ## 🚀 Projets
 
 ### TendryAPI – Generateur du text et images sans api key 
-> **Stack :** Javascript · Python 
+> **Stack :** Javascript · Python <br>
 [TendryAPI](https://github.com/TsilavinaZh/Tendry_API)
 
 ### EyeRest – OpenCV 
