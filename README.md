@@ -8,7 +8,7 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 
 ### INFLUENCEURS VIRTUELS
 > **Stack :** PHP · Javascript · Laravel · Express · Mysql <br>
-[INFLUENCEURS VIRTUELS](http://influenceursvrt.devlab.mg/)
+[INFLUENCEURS VIRTUELS](https://avataria.fr/)
 
 ### MiraFlow
 > **Stack :** React · Typescript · BULMA · Express · Mysql <br>
