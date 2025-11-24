@@ -10,16 +10,6 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 > **Stack :** Java <br>
 [JavaFetch](https://github.com/TsilavinaZh/JaFetch)
 
-### INFLUENCEURS VIRTUELS
-> **Stack :** PHP · Javascript · Laravel · Express · Mysql <br>
-[INFLUENCEURS VIRTUELS](https://avataria.fr/)
-
-### MiraFlow
-> **Stack :** React · Typescript · BULMA · Express · Mysql <br>
-[MiraFlow](http://www.miraflow.devlab.mg/)
-
-
-
 ### GasyCloud
 > **Stack :** Javascript · Typescript · Express · Python · Mysql <br>
 [GasyCloud](https://github.com/TsilavinaZh/GasyCloud)
