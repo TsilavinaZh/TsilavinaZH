@@ -6,6 +6,10 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 
 ## 🚀 Projets
 
+### JaFetch
+> **Stack :** Java <br>
+[JavaFetch](https://github.com/TsilavinaZh/JaFetch)
+
 ### INFLUENCEURS VIRTUELS
 > **Stack :** PHP · Javascript · Laravel · Express · Mysql <br>
 [INFLUENCEURS VIRTUELS](https://avataria.fr/)
