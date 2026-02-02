@@ -6,37 +6,14 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 
 ## 🚀 Projets
 
+https://omnetrix.onrender.com/
+### Omnetrix
+> **Stack :** NodeJS <br>
+[Omnetrix](https://github.com/TsilavinaZh/JaFetch)
+
 ### JaFetch
 > **Stack :** Java <br>
 [JavaFetch](https://github.com/TsilavinaZh/JaFetch)
-
-### GasyCloud
-> **Stack :** Javascript · Typescript · Express · Python · Mysql <br>
-[GasyCloud](https://github.com/TsilavinaZh/GasyCloud)
-
-
-### TendryAPI – Generateur du text et images sans api key 
-> **Stack :** Javascript · Python <br>
-[TendryAPI](https://github.com/TsilavinaZh/Tendry_API)
-
-### EyeRest – OpenCV 
-> **Stack :** Python · OpenCV · Numpy . xml <br>
-[EyeRest](https://github.com/TsilavinaZh/EyeRest) 
-
-
-### EduConnect – Application Mobil
-> **Stack :** Typescript, Ant design, express  <br>
-> [EduConnect](https://github.com/TsilavinaZh/EduConnect)
-
-### BotLex – Chatbot Full offline
-> **Stack :** Python · Numpy · Json <br>
-[BotLex](https://github.com/TsilavinaZh/BotLex)  
-
-
-###  MGTask – Gestionnaire de Projets Collaboratif <br>
-> **Stack :** React.js · Node.js · Express · MySQL · Socket.io  <br>
-[MGTask](http://taskmanager.onifra-antsirabe.mg/)
-
 
 ### CodePy – IDE python
 > **Stack :** Python · Flet · Json <br>
