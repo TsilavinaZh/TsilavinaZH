@@ -6,10 +6,10 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 
 ## 🚀 Projets
 
-https://omnetrix.onrender.com/
+
 ### Omnetrix
 > **Stack :** NodeJS <br>
-[Omnetrix](https://github.com/TsilavinaZh/JaFetch)
+[Omnetrix](https://omnetrix.onrender.com)
 
 ### JaFetch
 > **Stack :** Java <br>
