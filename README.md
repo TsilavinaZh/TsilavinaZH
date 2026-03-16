@@ -82,6 +82,6 @@ Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer m
 
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement échanger autour du développement web.
 
-📧 [tsiory.aina69@gmail.com](mailto:tsiory.aina69@gmail.com)  
+📧 [contact@tendry.mg](mailto:contact@tendry.mg)  
 📞 +261 38 39 221 49
 
