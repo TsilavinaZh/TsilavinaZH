@@ -19,13 +19,6 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 
 ## Projets phares
 
-### Omnetrix
-> **Stack :** Node.js
->
-> Plateforme web centrée sur l'expérience utilisateur et la simplicité d'utilisation.
->
-> [Voir le projet](https://omnetrix.onrender.com)
-
 ### RecupBuild
 > **Stack :** Full-stack · IA · Web
 >
@@ -39,6 +32,13 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 > Application web structurée avec une expérience utilisateur optimisée et une logique métier claire.
 >
 > [Voir le projet](https://github.com/TsilavinaZh/Skyra)
+
+### Omnetrix
+> **Stack :** Node.js
+>
+> Plateforme web centrée sur l'expérience utilisateur et la simplicité d'utilisation.
+>
+> [Voir le projet](https://omnetrix.onrender.com)
 
 ### JaFetch
 > **Stack :** Java
