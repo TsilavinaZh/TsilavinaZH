@@ -4,6 +4,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/TsilavinaZh?label=Followers&style=social)](https://github.com/TsilavinaZh)
 [![GitHub stars](https://img.shields.io/github/stars/TsilavinaZh?style=social)](https://github.com/TsilavinaZh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TsilavinaZh)
+
+</div>
+
+<div align="center">
+
+![Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 </div>
 
@@ -115,8 +122,6 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 ## En cours d'apprentissage
 
 Je continue d'explorer de nouvelles technologies, d'améliorer mes compétences et de développer des solutions plus intelligentes et plus évolutives.
-
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## Contact
 
