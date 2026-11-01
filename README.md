@@ -1,32 +1,37 @@
 # Bonjour, je suis Tendry Tsilavina
 
-## Developer polyglotte 
+## Développeur polyglotte
 
-Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis et opportunités d'apprentissage.
+Je suis un développeur polyglotte, toujours à la recherche de nouveaux défis et d'opportunités d'apprentissage.
 
 ## 🚀 Projets
 
-
 ### Omnetrix
-> **Stack :** NodeJS <br>
-[Omnetrix](https://omnetrix.onrender.com)
+> **Stack :** Node.js <br>
+> [Omnetrix](https://omnetrix.onrender.com)
 
 ### JaFetch
 > **Stack :** Java <br>
-[JavaFetch](https://github.com/TsilavinaZh/JaFetch)
+> [JaFetch](https://github.com/TsilavinaZh/JaFetch)
 
-### CodePy – IDE python
-> **Stack :** Python · Flet · Json <br>
-[CodePy](https://github.com/TsilavinaZh/CodePy)  
+### CodePy – IDE Python
+> **Stack :** Python · Flet · JSON <br>
+> [CodePy](https://github.com/TsilavinaZh/CodePy)
 
+### RecupBuild
+> **Stack :** Full-stack · IA · Web <br>
+> [RecupBuild](https://github.com/TsilavinaZh/RecupBuild)
 
-### Esivana – Library JS
-> **Stack :** Javascript  
+### Skyra
+> **Stack :** Web App · Blade · PHP <br>
+> [Skyra](https://github.com/TsilavinaZh/Skyra)
+
+### Esivana – Librairie JS
+> **Stack :** JavaScript  
 > **Fonctionnalités :** une bibliothèque Node.js légère conçue pour filtrer et censurer les gros mots en malgache<br>
 > [Esivana](https://github.com/TsilavinaZh/Esivana)
 
-
-## Langages et libraries que j'utilise
+## Langages et bibliothèques que j'utilise
 
 ### Langages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,8 +39,7 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-
-### Frameworks & Libraries
+### Frameworks & Bibliothèques
 
 #### JavaScript & TypeScript
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -52,7 +56,6 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-2C8EBB?style=flat-square)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square)
-
 
 #### Go
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -75,13 +78,11 @@ Je suis un développeur polyglotte , toujours à la recherche de nouveaux défis
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ## En cours d'apprentissage
-Je suis toujours en train d'explorer de nouvelles technologies et d'améliorer mes compétences.
+Je continue d'explorer de nouvelles technologies et d'améliorer mes compétences.
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## Contact
-
 N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement échanger autour du développement web.
 
 📧 [contact@tendry.mg](mailto:contact@tendry.mg)  
 📞 +261 38 39 221 49
-
