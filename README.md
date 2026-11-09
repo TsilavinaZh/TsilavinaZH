@@ -27,11 +27,17 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 ## Projets phares
 
 ### RecupBuild
+
+<div align="center">
+<img src="https://tse3.mm.bing.net/th/id/OIP.gmlxgYVG2waoA5VYhCIIMAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Logo Meta x Cerebral Valley" width="90">
+</div>
+
+> **Projet de hackathon : Meta × Cerebral Valley**  
 > **Stack :** Full-stack · IA · Web
 >
-> Projet innovant qui transforme des matériaux recyclés en plans de construction à partir d'images.
+> Projet innovant qui transforme des matériaux récupérés en plans de construction à partir d'images.
 >
-> [Voir le projet](https://github.com/TsilavinaZh/RecupBuild)
+> [Voir le projet](https://github.com/TsilavinaZh/RecupBuild) · [Essayer la démo](https://recupbuild.tendry.mg/try)
 
 ### Skyra
 > **Stack :** Blade · PHP · Web App
