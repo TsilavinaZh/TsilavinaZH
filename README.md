@@ -29,10 +29,10 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 ### RecupBuild
 
 <div align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIP.gmlxgYVG2waoA5VYhCIIMAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Logo Meta x Cerebral Valley" width="90">
+<img src="https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white" alt="Logo Meta" height="24">&nbsp;&nbsp;<img src="https://tse3.mm.bing.net/th/id/OIP.gmlxgYVG2waoA5VYhCIIMAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Logo Cerebral Valley" height="32">
 </div>
 
-> **Projet de hackathon : Meta × Cerebral Valley**  
+> **Projet réalisé dans le cadre du hackathon Meta × Cerebral Valley**  
 > **Stack :** Full-stack · IA · Web
 >
 > Projet innovant qui transforme des matériaux récupérés en plans de construction à partir d'images.
