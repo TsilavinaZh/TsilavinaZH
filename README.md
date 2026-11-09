@@ -39,6 +39,11 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 >
 > [Voir le projet](https://github.com/TsilavinaZh/RecupBuild) · [Essayer la démo](https://recupbuild.tendry.mg/try)
 
+### Veilforge
+> **Stack :** Python
+>
+> [Voir le projet](https://github.com/TsilavinaZh/Veilforge)
+
 ### Skyra
 > **Stack :** Blade · PHP · Web App
 >
