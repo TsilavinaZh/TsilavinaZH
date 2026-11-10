@@ -26,6 +26,9 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 
 ## Projets phares
 
+### MetaBuilds2026
+> [Voir le projet](https://github.com/TsilavinaZh/MetaBuilds2026)
+
 ### RecupBuild
 
 <div align="center">
@@ -43,34 +46,6 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 > **Stack :** Python
 >
 > [Voir le projet](https://github.com/TsilavinaZh/Veilforge)
-
-### Skyra
-> **Stack :** Blade · PHP · Web App
->
-> Application web structurée avec une expérience utilisateur optimisée et une logique métier claire.
->
-> [Voir le projet](https://github.com/TsilavinaZh/Skyra)
-
-### Omnetrix
-> **Stack :** Node.js
->
-> Plateforme web centrée sur l'expérience utilisateur et la simplicité d'utilisation.
->
-> [Voir le projet](https://omnetrix.onrender.com)
-
-### JaFetch
-> **Stack :** Java
->
-> Outil et bibliothèque orientée développement Java pour des accès pratiques aux données et services.
->
-> [Voir le projet](https://github.com/TsilavinaZh/JaFetch)
-
-### CodePy – IDE Python
-> **Stack :** Python · Flet · JSON
->
-> Environnement de développement Python pensé pour une écriture rapide et fluide.
->
-> [Voir le projet](https://github.com/TsilavinaZh/CodePy)
 
 ### Esivana – Librairie JavaScript
 > **Stack :** JavaScript
