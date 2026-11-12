@@ -6,10 +6,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/TsilavinaZh?style=social)](https://github.com/TsilavinaZh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TsilavinaZh)
 
-</div>
-
-<div align="center">
-
 ![Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 </div>
@@ -20,39 +16,23 @@ Développeur polyglotte passionné par la création de solutions innovantes, l'a
 
 Je conçois des projets allant de l'interface utilisateur à l'architecture backend, en intégrant des outils modernes, des APIs, des systèmes intelligents et des expériences centrées sur l'utilisateur.
 
-- 💡 Spécialité : développement web, backend, IA et outils productifs
-- 🌍 Curiosité : apprentissage continu et résolution de problèmes concrets
-- 🚀 Objectif : créer des produits utiles, performants et faciles à utiliser
+- 💡 **Spécialité :** développement web, backend, IA et outils productifs
+- 🌍 **Curiosité :** apprentissage continu et résolution de problèmes concrets
+- 🚀 **Objectif :** créer des produits utiles, performants et faciles à utiliser
 
 ## Projets phares
 
-### MetaBuilds2026
-> [Voir le projet](https://github.com/TsilavinaZh/MetaBuilds2026)
-
-### RecupBuild
-
 <div align="center">
-<img src="https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white" alt="Logo Meta" height="24">&nbsp;&nbsp;<img src="https://tse3.mm.bing.net/th/id/OIP.gmlxgYVG2waoA5VYhCIIMAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Logo Cerebral Valley" height="32">
+
+| Projet | Description | Liens |
+|---|---|---|
+| <a href="https://github.com/TsilavinaZh/MetaBuilds2026"><img src="https://img.shields.io/badge/MetaBuilds-2026-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Logo MetaBuilds 2026"></a> | Projet hackathon | [Voir le projet](https://github.com/TsilavinaZh/MetaBuilds2026) |
+| <a href="https://github.com/TsilavinaZh/RecupBuild"><img src="https://raw.githubusercontent.com/TsilavinaZh/RecupBuild/real-photos-and-entrypoint/images/logo.png" alt="Logo RecupBuild" height="58"></a> | À partir d'une photo de vieux matériaux, RecupBuild crée un plan de construction. | [Voir le projet](https://github.com/TsilavinaZh/RecupBuild) · [Essayer la démo](https://recupbuild.tendry.mg/try) |
+| <a href="https://github.com/TsilavinaZh/Veilforge"><img src="https://raw.githubusercontent.com/TsilavinaZh/Veilforge/master/docs/assets/banner-narrow.svg" alt="Logo Veilforge" height="58"></a> | Pare-feu de confidentialité local pour les échanges avec les LLM. | [Voir le projet](https://github.com/TsilavinaZh/Veilforge) · [Démo](https://veilforge.tendry.mg/) |
+| <a href="https://github.com/TsilavinaZh/Esivana"><img src="https://img.shields.io/badge/Esivana-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo Esivana"></a> | Bibliothèque JavaScript pour filtrer et censurer les gros mots en malgache. | [Voir le projet](https://github.com/TsilavinaZh/Esivana) |
+| <a href="https://github.com/TsilavinaZh/alamino"><img src="https://raw.githubusercontent.com/TsilavinaZh/alamino/main/public/alamino-logo.png" alt="Logo Alamino" height="58"></a> | Alamino aide les commerçants à compenser leurs dettes et à régler uniquement le solde restant. | [Voir le projet](https://github.com/TsilavinaZh/alamino) · [Démo](https://alamino.live-preprod.site) |
+
 </div>
-
-> **Projet réalisé dans le cadre du hackathon Meta × Cerebral Valley**  
-> **Stack :** Full-stack · IA · Web
->
-> Projet innovant qui transforme des matériaux récupérés en plans de construction à partir d'images.
->
-> [Voir le projet](https://github.com/TsilavinaZh/RecupBuild) · [Essayer la démo](https://recupbuild.tendry.mg/try)
-
-### Veilforge
-> **Stack :** Python
->
-> [Voir le projet](https://github.com/TsilavinaZh/Veilforge)
-
-### Esivana – Librairie JavaScript
-> **Stack :** JavaScript
->
-> Bibliothèque légère conçue pour filtrer et censurer les gros mots en malgache.
->
-> [Voir le projet](https://github.com/TsilavinaZh/Esivana)
 
 ## Stack technologique
 
@@ -94,7 +74,7 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Outils & outils
+### Outils
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
