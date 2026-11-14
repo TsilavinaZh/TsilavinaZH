@@ -20,17 +20,27 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 - 🌍 **Curiosité :** apprentissage continu et résolution de problèmes concrets
 - 🚀 **Objectif :** créer des produits utiles, performants et faciles à utiliser
 
+## Détails du projet
+
+- **Nom du projet :** TsilavinaZH / portfolio personnel
+- **Type :** vitrine de profil, portfolio technique et showcases de projets
+- **Langage principal :** JavaScript (100%)
+- **Site / lien :** http://cc.tendry.mg
+- **Objectif :** présenter les compétences, les réalisations et les projets de développement web, backend et solutions numériques.
+
+Ce dépôt sert de point d'entrée central pour mettre en avant mon parcours, mes projets et ma présence technique dans le monde du développement logiciel.
+
 ## Projets phares
 
 <div align="center">
 
 | Projet | Description | Liens |
 |---|---|---|
-| <a href="https://github.com/TsilavinaZh/MetaBuilds2026"><img src="https://img.shields.io/badge/MetaBuilds-2026-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Logo MetaBuilds 2026"></a> | Projet hackathon | [Voir le projet](https://github.com/TsilavinaZh/MetaBuilds2026) |
-| <a href="https://github.com/TsilavinaZh/RecupBuild"><img src="https://raw.githubusercontent.com/TsilavinaZh/RecupBuild/real-photos-and-entrypoint/images/logo.png" alt="Logo RecupBuild" height="58"></a> | À partir d'une photo de vieux matériaux, RecupBuild crée un plan de construction. | [Voir le projet](https://github.com/TsilavinaZh/RecupBuild) · [Essayer la démo](https://recupbuild.tendry.mg/try) |
-| <a href="https://github.com/TsilavinaZh/Veilforge"><img src="https://raw.githubusercontent.com/TsilavinaZh/Veilforge/master/docs/assets/banner-narrow.svg" alt="Logo Veilforge" height="58"></a> | Pare-feu de confidentialité local pour les échanges avec les LLM. | [Voir le projet](https://github.com/TsilavinaZh/Veilforge) · [Démo](https://veilforge.tendry.mg/) |
-| <a href="https://github.com/TsilavinaZh/Esivana"><img src="https://img.shields.io/badge/Esivana-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo Esivana"></a> | Bibliothèque JavaScript pour filtrer et censurer les gros mots en malgache. | [Voir le projet](https://github.com/TsilavinaZh/Esivana) |
-| <a href="https://github.com/TsilavinaZh/alamino"><img src="https://raw.githubusercontent.com/TsilavinaZh/alamino/main/public/alamino-logo.png" alt="Logo Alamino" height="58"></a> | Alamino aide les commerçants à compenser leurs dettes et à régler uniquement le solde restant. | [Voir le projet](https://github.com/TsilavinaZh/alamino) · [Démo](https://alamino.live-preprod.site) |
+| <a href="https://github.com/TsilavinaZh/MetaBuilds2026"><img src="https://img.shields.io/badge/MetaBuilds-2026-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Logo MetaBuilds 2026"></a> | MetaBuilds 2026 : plateforme et solution orientée produit numérique. | [Repo](https://github.com/TsilavinaZh/MetaBuilds2026) |
+| <a href="https://github.com/TsilavinaZh/RecupBuild"><img src="https://raw.githubusercontent.com/TsilavinaZh/RecupBuild/real-photos-and-entrypoint/images/logo.png" alt="Logo RecupBuild" height="58"></a> | RecupBuild : projet orienté création, amélioration d'expérience digitale et mise en valeur de produits. | [Repo](https://github.com/TsilavinaZh/RecupBuild) |
+| <a href="https://github.com/TsilavinaZh/Veilforge"><img src="https://raw.githubusercontent.com/TsilavinaZh/Veilforge/master/docs/assets/banner-narrow.svg" alt="Logo Veilforge" height="58"></a> | Veilforge : projet axé sur des solutions de développement innovantes et des outils applicatifs. | [Repo](https://github.com/TsilavinaZh/Veilforge) |
+| <a href="https://github.com/TsilavinaZh/Esivana"><img src="https://img.shields.io/badge/Esivana-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo Esivana"></a> | Esivana : projet JavaScript orienté application moderne et expérience utilisateur. | [Repo](https://github.com/TsilavinaZh/Esivana) |
+| <a href="https://github.com/TsilavinaZh/alamino"><img src="https://raw.githubusercontent.com/TsilavinaZh/alamino/main/public/alamino-logo.png" alt="Logo Alamino" height="58"></a> | Alamino aide à la mise en place de solutions plus utiles et conviviales. | [Repo](https://github.com/TsilavinaZh/alamino) |
 
 </div>
 
