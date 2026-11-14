@@ -20,22 +20,13 @@ Je conçois des projets allant de l'interface utilisateur à l'architecture back
 - 🌍 **Curiosité :** apprentissage continu et résolution de problèmes concrets
 - 🚀 **Objectif :** créer des produits utiles, performants et faciles à utiliser
 
-## Détails du projet
-
-- **Nom du projet :** TsilavinaZH / portfolio personnel
-- **Type :** vitrine de profil, portfolio technique et showcases de projets
-- **Langage principal :** JavaScript (100%)
-- **Site / lien :** http://cc.tendry.mg
-- **Objectif :** présenter les compétences, les réalisations et les projets de développement web, backend et solutions numériques.
-
-Ce dépôt sert de point d'entrée central pour mettre en avant mon parcours, mes projets et ma présence technique dans le monde du développement logiciel.
-
 ## Projets phares
 
 <div align="center">
 
 | Projet | Description | Liens |
 |---|---|---|
+| <a href="http://cc.tendry.mg"><img src="https://img.shields.io/badge/ChallengeChain-Quiz%20%26%20Challenges-6C5CE7?style=for-the-badge" alt="Logo ChallengeChain"></a> | **ChallengeChain** — créez des quiz sur vos sujets préférés, partagez-les avec un lien et défiez vos amis. Jouez sans compte, comparez les scores et grimpez dans le classement. Gratuit et ludique, avec des catégories comme sport, culture générale, sciences, histoire, technologie, films et musique. | [🌐 Site](http://cc.tendry.mg) |
 | <a href="https://github.com/TsilavinaZh/MetaBuilds2026"><img src="https://img.shields.io/badge/MetaBuilds-2026-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Logo MetaBuilds 2026"></a> | MetaBuilds 2026 : plateforme et solution orientée produit numérique. | [Repo](https://github.com/TsilavinaZh/MetaBuilds2026) |
 | <a href="https://github.com/TsilavinaZh/RecupBuild"><img src="https://raw.githubusercontent.com/TsilavinaZh/RecupBuild/real-photos-and-entrypoint/images/logo.png" alt="Logo RecupBuild" height="58"></a> | RecupBuild : projet orienté création, amélioration d'expérience digitale et mise en valeur de produits. | [Repo](https://github.com/TsilavinaZh/RecupBuild) |
 | <a href="https://github.com/TsilavinaZh/Veilforge"><img src="https://raw.githubusercontent.com/TsilavinaZh/Veilforge/master/docs/assets/banner-narrow.svg" alt="Logo Veilforge" height="58"></a> | Veilforge : projet axé sur des solutions de développement innovantes et des outils applicatifs. | [Repo](https://github.com/TsilavinaZh/Veilforge) |
